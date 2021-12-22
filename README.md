@@ -1,9 +1,8 @@
 # ASRExercises
 
-This is a collection of different (classification) algorithms, implemented as part of the course on Automatic Speech Recognition (ASR) 
-at the Nuremberg Institute of Technology (TH Nürnberg).
+This is a project comparing different (classification) algorithms for the sentiment analysis of movie reviews:
 
-* Gaussian: A probabilistic classifier based gaussian_classify distribution
+* Gaussian: A probabilistic classifier based on gaussian_classify distribution
 * KNN: K-Nearest-Neighbour classifier
 * MLP: Mulit-layer Perceptron
 
