@@ -1,4 +1,4 @@
-# ASRExercises
+# Sentiment Analysis of Movie Reviews: A Comparison of Architectures
 
 This is a project comparing different (classification) algorithms for the sentiment analysis of movie reviews:
 
